@@ -1,30 +1,10 @@
-# 💫 About Me
+Hi there! 👋 I'm Mayuri Andhale. I am a passionate and enthusiastic learner in the field of Software Testing and Python Development. 
+I am currently working on Software Testing, Manual Testing, Python, and creating Test Cases and Test Scripts. 
+I am skilled in QA Testing, Automation Testing, SQL, and Computer Networking Basics, and I am constantly improving my knowledge in CCNA, Automation Testing, and advanced Python Development. 
+I am open to collaboration with experienced professionals in Python, Software Testing, Automation, Cloud, and Networking, and I am always curious about emerging technologies, cloud computing, and Generative AI. 
+I am looking for opportunities to collaborate on projects, receive guidance from experienced professionals, and take on exciting challenges where I can apply my testing skills, develop automation scripts, and improve my coding abilities. 
 
-Hi there! 👋 I'm Mayuri Andhale
-
-I am a passionate and enthusiastic learner in the field of Software Testing and Python Development. I love exploring new technologies and sharpening my skills to build robust and efficient solutions.
-
-## About Me
-- Currently working on Software Testing, Manual Testing, Python, and creating Test Cases & Test Scripts.  
-- Skilled in QA Testing, Automation Testing, SQL, and Computer Networking Basics.  
-- Constantly improving my knowledge in CCNA, Automation Testing, and advanced Python Development.  
-- Open to collaboration with experienced professionals in Python, Software Testing, Automation, Cloud, and Networking.  
-- Always curious about emerging technologies, cloud computing, and Generative AI. Feel free to ask me about these!  
-
-## What I'm Looking For
-- Opportunities to collaborate on projects related to Software Testing, Automation, Python, or Cloud technologies.  
-- Guidance and mentorship from experienced professionals to grow my skills.  
-- Exciting challenges where I can apply my testing skills, develop automation scripts, and improve my coding abilities.  
-
-## Skills
-- Testing: Manual Testing, Automation Testing, Test Case Design, Test Script Development, Regression & Smoke Testing.  
-- Programming: Python, SQL.  
-- Tools & Frameworks: Selenium, Robot Framework, JIRA.  
-- Networking & Cloud: Basics of Computer Networking, Learning CCNA, Cloud concepts.  
-
-## Fun Fact
-I love exploring cutting-edge tech and combining it with creative problem-solving. I’m always up for a discussion about AI, Python tricks, or tech innovations – basically, ask me anything! 😄
-
+I love exploring cutting-edge tech and combining it with creative problem-solving, and I’m always up for a discussion about AI, Python tricks, or tech innovations – basically, ask me anything! I’m open to collaboration, mentorship, and tech discussions. Feel free to reach out!
 
 
 ## 🌐 Socials:
