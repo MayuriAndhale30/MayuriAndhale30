@@ -1,4 +1,5 @@
-Hi there! 👋 I'm Mayuri Andhale. I am a passionate and enthusiastic learner in the field of Software Testing and Python Development. 
+Hi there! 👋 I'm Mayuri Andhale. 
+I am a passionate and enthusiastic learner in the field of Software Testing and Python Development. 
 I am currently working on Software Testing, Manual Testing, Python, and creating Test Cases and Test Scripts. 
 I am skilled in QA Testing, Automation Testing, SQL, and Computer Networking Basics, and I am constantly improving my knowledge in CCNA, Automation Testing, and advanced Python Development. 
 I am open to collaboration with experienced professionals in Python, Software Testing, Automation, Cloud, and Networking, and I am always curious about emerging technologies, cloud computing, and Generative AI. 
